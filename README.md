@@ -36,7 +36,7 @@ My previous project taught me how to (in an introductory manner) use Kicad's sch
 
 <h3>Pictures of my project</h3>
 
-**Full 3D model**
+<h2>Full 3D model<h2>
 
 PCB Card - no displays + microcontroller
 
@@ -46,9 +46,9 @@ PCB Card - with displays + microcontroller (and yes the 1.8"OLED and SD card rec
 
 ![alt text]({D1354CFE-27D3-4F61-BB18-D3CD1A534CFE}.png)
 
-**Schematics**
+<h2>Schematics<h2>
 
-LEGEND:
+**LEGEND:**
 
 Blue = controls
 
@@ -58,7 +58,7 @@ Green = power
 
 ![alt text](PCBBusinessCardSchematics-1.svg)
 
-**BOM**
+<h2>BOM<h2>
 
 
 |Platform  |Description                   |Price per listed lot|# of parts per listed lot|Lots purchased   |Final price (+shipping), (CAD)|Final price (USD)|Already owned?|Comments                                                          |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
