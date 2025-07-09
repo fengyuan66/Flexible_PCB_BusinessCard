@@ -10,11 +10,11 @@ created_at: "2025-07-05"
 <h2>Night of 2025-07-05:</h2>
 
 So today I looked up some components to use. By now I'm pretty confident with schematics after making schematics for two previous projects. However, this time I need to be careful about the dimensions of my components as I'll need to make a PCB
-![alt text](image.png)
+![alt text](Assets/image.png)
 
 I also finished my schematics. Chat GPT's always of great help because it knows about all the parts
 
-![alt text]({7B72F7DD-E1CB-48B5-998F-0C9929E3AD02}.png)
+![alt text](Assets/{7B72F7DD-E1CB-48B5-998F-0C9929E3AD02}.png)
 
 Not much to be said, it's pretty regular work by now. However, tomorrow I'd need to finish my PCB, which is completely foreign soil that I've not ventured into yet. I'll need ChatGPT and video tutorials to guide me through it.
 
@@ -22,11 +22,11 @@ Not much to be said, it's pretty regular work by now. However, tomorrow I'd need
 
 <h2>2025-07-06:</h2>
 
-![alt text]({3D191237-9967-418D-B109-A1232A4227FF}.png)
+![alt text](Assets/{3D191237-9967-418D-B109-A1232A4227FF}.png)
 
 Finished my PCB. This is my first iteration of it and I'm pretty sure I must've done something wrong. I followed some YouTube tutorials and got ChatGPT to check and guide me through but I just am not sure what I've done wrong (I'm sure there must be something). I asked in highway to see if anyone can spot any errors
 
-![alt text]({8166E566-B5DF-4177-A708-FF9E1BF9EE0B}.png)
+![alt text](Assets/{8166E566-B5DF-4177-A708-FF9E1BF9EE0B}.png)
 
 Here is the 3D view btw... 
 
@@ -36,11 +36,11 @@ Here is the 3D view btw...
 
 I also added silkscreen stuff (text + images on the board), made some minor adjustments & fixes because someone recommended me to lengthen up all wires of the lines which I've only lengthened partially before. Here's how to board looks now:
 
-![alt text]({753DB773-45AD-4370-8BDA-96F5156F11ED}.png)
+![alt text](Assets/{753DB773-45AD-4370-8BDA-96F5156F11ED}.png)
 
 A 3D render of the PCB also:
 
-![alt text]({5D3D3F77-76FF-4127-BF3E-0812F6B998FE}.png)
+![alt text](Assets/{5D3D3F77-76FF-4127-BF3E-0812F6B998FE}.png)
 
 I think I'm going to draft out the firmware and then go to sleep... submitting soon.
 
@@ -58,7 +58,7 @@ Bad news: I forgot to mention that my image display was equiped with a ST7735S a
 
 <h2>2025-07-08:</h2>
 
-![alt text](image-1.png)
+![alt text](Assets/image-1.png)
 
 The code was finished last night but I forgot to write about it. I think there's no AI mistakes left but I will double check just to make sure
 
@@ -66,7 +66,7 @@ Yep there's no errors, all the pins are correct. I'm working on the README now.
 
 Oh yeah and also I gotta make a 3D model of the PCB with the 3D model of the electronic components attached onto it. 
 
-![alt text]({7571FB9F-0409-4A03-AADB-E90DB49A9FE7}.png)
+![alt text](Assets/{7571FB9F-0409-4A03-AADB-E90DB49A9FE7}.png)
 
 Okay cool it's done now. Once again, grabCAD saves the day
 

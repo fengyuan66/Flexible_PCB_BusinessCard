@@ -40,11 +40,11 @@ My previous project taught me how to (in an introductory manner) use Kicad's sch
 
 PCB Card - no displays + microcontroller
 
-![alt text](image-2.png)
+![alt text](Assets/image-2.png)
 
 PCB Card - with displays + microcontroller (and yes the 1.8"OLED and SD card receptor looks weird but trust me it's wired correctly in that way)
 
-![alt text]({D1354CFE-27D3-4F61-BB18-D3CD1A534CFE}.png)
+![alt text](Assets/{D1354CFE-27D3-4F61-BB18-D3CD1A534CFE}.png)
 
 <h2>Schematics<h2>
 
@@ -60,6 +60,9 @@ Green = power
 
 <h2>BOM</h2>
 
+By the way, the JLPCB quote I couldn't include a link to. This is my first time using their service so if their bill seems overly high I might have done something wrong, please let me know and Ill fix it ASAP
+
+![alt text](Assets/JLPCBQuote.PNG)
 
 |Platform  |Description                   |Price per listed lot|# of parts per listed lot|Lots purchased   |Final price (+shipping), (CAD)|Final price (USD)|Already owned?|Comments                                                          |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------|------------------------------|--------------------|-------------------------|-----------------|------------------------------|-----------------|--------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
