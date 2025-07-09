@@ -51,7 +51,9 @@ PCB Card - with displays + microcontroller (and yes the 1.8"OLED and SD card rec
 LEGEND:
 
 Blue = controls
+
 Yellow = grounds
+
 Green = power
 
 ![alt text](PCBBusinessCardSchematics-1.svg)
