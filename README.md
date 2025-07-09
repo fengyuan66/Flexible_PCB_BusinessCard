@@ -56,7 +56,7 @@ Yellow = grounds
 
 Green = power
 
-![alt text](PCBBusinessCardSchematics-1.svg)
+![alt text](PCBBusinessCardSchematics.svg)
 
 <h2>BOM</h2>
 
