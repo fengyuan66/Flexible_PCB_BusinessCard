@@ -3,7 +3,7 @@ A PCB business card inspired by Github's, with displays that can adapt to whiche
 
 <h3>Project Description</h3>
 
-This is a PCB business card with my basic contact info printed on it. It is based off this really cool PCB business card design on Github (I couldn't find the original link :(). Its main feature is its ability to display different things under different contexts. The way it works is simple...
+This is a PCB business card with my basic contact info printed on it. It is based off this really cool PCB business card design on Github (I couldn't find the original link :() (Hi this is Harry from like 1 hour later, turns out it's the "Github Universe Badge" as pointed out by this one guy's journal). Its main feature is its ability to display different things under different contexts. The way it works is simple...
 
 1. There exists an image and a text folder in an external micro SD card
 2. Files are stored accordingly into the external micro SD card's folders
