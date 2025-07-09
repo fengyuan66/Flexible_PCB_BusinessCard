@@ -50,7 +50,7 @@ I think I'm going to draft out the firmware and then go to sleep... submitting s
 
 So the goal here is that because apparently RPI pico only has 2MB of storage I need an external SD card (which I've implemented). So basically there's two file folders, one for the image display and one for the textdisplay. Whenever the RPI pico gets power it will automatically display the first thing in each folder, pressing the button beside each component will rotate through each image in the folder.
 
-Now unfortunately I don't no nothing about micropython and my application (SD card -> RPI -> OLED) is very unique. So there doesn't seem to be any online tutorials that I can find. I'm gonna have to ask chatgpt but because vibe coding is not allowed I will let it teach me what each line does, I will write it myself, and I will double check to see if it made errors (make sure that it got my pins right).
+Now unfortunately I don't no nothing about micropython (hi this is future Harry the firmware actually apparently needed to be in C++ so don't be confused about that) and my application (SD card -> RPI -> OLED) is very unique. So there doesn't seem to be any online tutorials that I can find. I'm gonna have to ask chatgpt but because vibe coding is not allowed I will let it teach me what each line does, I will write it myself, and I will double check to see if it made errors (make sure that it got my pins right).
 
 Bad news: I forgot to mention that my image display was equiped with a ST7735S and not a SSD1306 chip, so now it assumes that I can't show images. I'd have to change up some parts of the code, hopefully that it doesn't hallucinate...
 
