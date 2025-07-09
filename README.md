@@ -1,9 +1,11 @@
 # Flexible PCB card
 A PCB business card inspired by Github's, with displays that can adapt to whichever event I attend
 
-**Note**
+**Notes**
 
 I've included the firmware. However, it hasn't gone through any testing yet. I've tried my best to understand and check that the code reflect the irl board. Please see  journal for more details regarding the making of the firmware.
+
+Also, I know that the PCB business card is now 2 points, but I genuinely feel like that this design deserves at least fits in the 4 point category for its features. Unlike some of my other projects, I am pretty confident in my judgement for this one. Though if it doesn't deserve 4 points, I'm okay with that as well.
 
 <h3>Project Description</h3>
 
