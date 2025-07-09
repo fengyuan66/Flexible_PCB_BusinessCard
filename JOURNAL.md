@@ -5,6 +5,8 @@ description: "A PCB business card with displays that I can change based off what
 created_at: "2025-07-05"
 ---
 
+<h2>TOTAL TIME SPENT DURING DESIGN: ~12 hours 41 minutes</h2>
+
 <h2>Night of 2025-07-05:</h2>
 
 So today I looked up some components to use. By now I'm pretty confident with schematics after making schematics for two previous projects. However, this time I need to be careful about the dimensions of my components as I'll need to make a PCB
