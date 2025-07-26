@@ -5,7 +5,7 @@ description: "A PCB business card with displays that I can change based off what
 created_at: "2025-07-05"
 ---
 
-<h2>TOTAL TIME SPENT DURING DESIGN: ~12 hours 41 minutes</h2>
+<h2>TOTAL TIME SPENT DURING DESIGN: ~14 hours 11 minutes</h2>
 
 <h2>Night of 2025-07-05:</h2>
 
@@ -80,3 +80,6 @@ My first submission got rejected because it was too big. My second submission go
 
 Another thing is that I'll have to redo my BOM because Im in China now and things here I can get for a lot cheaper
 
+Okay cool beans done!
+
+<h3>TIME: 4 hours (functionally around 1.5, most of the time is waiting for vpn)</h3>
