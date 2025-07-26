@@ -71,3 +71,12 @@ Oh yeah and also I gotta make a 3D model of the PCB with the 3D model of the ele
 Okay cool it's done now. Once again, grabCAD saves the day
 
 <h3>TIME: 1 hour 34 minutes</h3>
+
+<h2>2025-07-25:</h2>
+
+Okay quick recap:
+
+My first submission got rejected because it was too big. My second submission got rejected because I forgot to update my readme and journal. So today Im going to be updating the info in my readme and journal to the new dimensions.
+
+Another thing is that I'll have to redo my BOM because Im in China now and things here I can get for a lot cheaper
+
